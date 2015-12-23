@@ -1,0 +1,11 @@
+{
+  "name": "git-diff-brunch",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "peerDependencies": {
+    "brunch": "~1.8"
+  }
+}
